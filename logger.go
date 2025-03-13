@@ -1,4 +1,4 @@
-package logger
+package goquiz_common
 
 import (
 	"fmt"
